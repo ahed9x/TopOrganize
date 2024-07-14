@@ -1,3 +1,6 @@
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
+
 This program is designed to organize files on the user's desktop into specific folders based on their file types. When executed, it first creates a variety of folders on the desktop to categorize files such as images, documents, archives, and various hobbies. The program then scans the desktop for files and moves them into their folders. If a file already exists in the target location, the program renames the file to avoid conflicts. Additionally, a graphical user interface (GUI) created using Pygame displays a button that, when clicked, triggers the file organization process.
 
 ### Detailed Explanation
