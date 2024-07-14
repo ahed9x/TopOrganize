@@ -27,6 +27,8 @@ This program is designed to organize files on the user's desktop into specific f
 
 ### All credential go to Ahmed Omar Zein(ahed9x)
 
+![Apache License 2.0](https://img.shields.io/badge/license-Apache%202.0-blue.svg)
+
 **contact:**
 
 email: ahmed.omar.zeinelabdin@gmail.com
