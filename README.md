@@ -36,4 +36,4 @@ This program is designed to organize files on the user's desktop into specific f
 
 email: ahmed.omar.zeinelabdin@gmail.com
 
-linkden: www.linkedin.com/in/ahmed-omar-a64178317
+linkden: www.linkedin.com/in/ahmed-omar-9x
